@@ -1,2 +1,5 @@
 # fruit-slicing-game
-Fruit Slicing game created using HTML, CSS, jQuery
+A fruit slicing game created using HTML, CSS and jQuery.
+
+Image credits - logomakr.com, openclipart.com
+Sound credits - freesound.org
